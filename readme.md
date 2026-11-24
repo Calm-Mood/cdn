@@ -9,7 +9,7 @@ This branch (`static-resources`) is used exclusively for hosting public assets v
 > Do not open pull requests to or from this branch. It’s an independent branch meant for static file delivery.
 
 ## CDN Usage
-All files in this branch are served via **GitHub Pages** at https://arsengabrielyan.github.io/calm-mood/
+All files in this branch are served via **GitHub Pages** at https://calm-mood.github.io/cdn/
 
 You can use these URLs directly in everywhere :-)
 

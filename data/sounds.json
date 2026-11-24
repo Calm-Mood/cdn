@@ -7,7 +7,7 @@
                "ka": "ფრინველები",
                "ru": "Птицы"
           },
-          "url": "https://calm-mood.github.io/calm-mood/sounds/birds.mp3"
+          "url": "https://calm-mood.github.io/cdn/sounds/birds.mp3"
      },
      {
           "id": "rain",
@@ -17,7 +17,7 @@
                "ka": "წვიმა",
                "ru": "Дождь"
           },
-          "url": "https://calm-mood.github.io/calm-mood/sounds/rain.mp3"
+          "url": "https://calm-mood.github.io/cdn/sounds/rain.mp3"
      },
      {
           "id": "river",
@@ -27,7 +27,7 @@
                "ka": "მდინარე",
                "ru": "Река"
           },
-          "url": "https://calm-mood.github.io/calm-mood/sounds/river.mp3"
+          "url": "https://calm-mood.github.io/cdn/sounds/river.mp3"
      },
      {
           "id": "beach",
@@ -37,7 +37,7 @@
                "ka": "სანაპირო",
                "ru": "Пляж"
           },
-          "url": "https://calm-mood.github.io/calm-mood/sounds/beach.mp3"
+          "url": "https://calm-mood.github.io/cdn/sounds/beach.mp3"
      },
      {
           "id": "train",
@@ -47,7 +47,7 @@
                "ka": "მატარებელი",
                "ru": "Поезд"
           },
-          "url": "https://calm-mood.github.io/calm-mood/sounds/train.mp3"
+          "url": "https://calm-mood.github.io/cdn/sounds/train.mp3"
      },
      {
           "id": "thunderstorm",
@@ -57,7 +57,7 @@
                "ka": "ჭექა-ქუხილი",
                "ru": "Гроза"
           },
-          "url": "https://calm-mood.github.io/calm-mood/sounds/thunderstorm.mp3"
+          "url": "https://calm-mood.github.io/cdn/sounds/thunderstorm.mp3"
      },
      {
           "id": "night",
@@ -67,7 +67,7 @@
                "ka": "ღამე",
                "ru": "Ночь"
           },
-          "url": "https://calm-mood.github.io/calm-mood/sounds/night.mp3"
+          "url": "https://calm-mood.github.io/cdn/sounds/night.mp3"
      },
      {
           "id": "lake",
@@ -77,7 +77,7 @@
                "ka": "ტბა",
                "ru": "Озеро"
           },
-          "url": "https://calm-mood.github.io/calm-mood/sounds/lake.mp3"
+          "url": "https://calm-mood.github.io/cdn/sounds/lake.mp3"
      },
      {
           "id": "waves",
@@ -87,7 +87,7 @@
                "ka": "ტალღები",
                "ru": "Волны"
           },
-          "url": "https://calm-mood.github.io/calm-mood/sounds/waves.mp3"
+          "url": "https://calm-mood.github.io/cdn/sounds/waves.mp3"
      },
      {
           "id": "waterfall",
@@ -97,6 +97,6 @@
                "ka": "ჩანჩქერი",
                "ru": "Водопад"
           },
-          "url": "https://calm-mood.github.io/calm-mood/sounds/waterfall.mp3"
+          "url": "https://calm-mood.github.io/cdn/sounds/waterfall.mp3"
      }
 ]
